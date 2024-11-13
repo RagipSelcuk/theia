@@ -49,6 +49,9 @@
       "path": "examples/browser-only"
     },
     {
+      "path": "examples/dietician-ide"
+    },
+    {
       "path": "examples/electron"
     },
     {
